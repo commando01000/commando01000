@@ -1,3 +1,5 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)]([https://rishavchanda.io](https://www.linkedin.com/in/mahmoud-morsi2))
+
 # 💫 About Me:
 🚀 Highly motivated and results-oriented Computer Science 2023 graduate with a strong academic foundation and a passion for solving complex problems, Web and Software Development. 💻 Equipped with a solid understanding of various programming languages, algorithms, and software development principles. 🤝 Demonstrated ability to work collaboratively in team environments and adapt quickly to new technologies. 📚 Committed to continuous learning and professional growth in the field of computer science. Let's code the future together! 🌟
 
