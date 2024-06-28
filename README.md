@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=commando01000&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=commando01000&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=commando01000&langs_count=6&hide=Python,blade,jupyter%20notebook,php&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=commando01000&langs_count=6&hide=Python,jupyter%20notebook&theme=dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=commando01000&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
